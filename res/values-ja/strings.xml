@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SampleApp4MyUUID</string>
+    <string name="send_button">個体識別番号を取得！</string>
+    <string name="alert_message">MyUUID　をインストールしてください</string>
+    <string name="msg1">リクエストは拒否されました</string>
+    <string name="msg2">IDが未生成の状態です</string>
+    <string name="msg3">個体識別番号として  </string>
+    <string name="msg4">  を受信しました！</string>
+</resources>

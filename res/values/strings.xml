@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SampleApp4MyUUID</string>
+    <string name="alert_message">Please install MyUUID</string>
+    <string name="send_button">Get your UUID!</string>
+    <string name="msg1">ID request was denied ..</string>
+    <string name="msg2">ID is not generated yet.</string>
+    <string name="msg3">You have received  </string>
+    <string name="msg4">  as your ID</string>
+</resources>
